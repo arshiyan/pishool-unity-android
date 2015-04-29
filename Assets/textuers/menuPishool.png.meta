@@ -1,0 +1,278 @@
+fileFormatVersion: 2
+guid: 23789168a034e7d41a0f14b304963be3
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: menuPishool_1
+    21300002: menuPishool_2
+    21300004: menuPishool_3
+    21300006: menuPishool_4
+    21300008: menuPishool_5
+    21300010: menuPishool_6
+    21300012: menuPishool_7
+    21300014: menuPishool_8
+    21300016: menuPishool_9
+    21300018: menuPishool_10
+    21300020: menuPishool_13
+    21300022: menuPishool_14
+    21300024: menuPishool_15
+    21300026: menuPishool_16
+    21300028: menuPishool_17
+    21300030: menuPishool_18
+    21300032: menuPishool_19
+    21300034: menuPishool_20
+    21300036: menuPishool_20
+    21300038: menuPishool_21
+    21300040: menuPishool_20
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: menuPishool_1
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 1805
+        width: 168
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: menuPishool_2
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 1803
+        width: 166
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: menuPishool_3
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 1829
+        width: 121
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: menuPishool_4
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 1829
+        width: 120
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: menuPishool_5
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 1831
+        width: 117
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: menuPishool_6
+      rect:
+        serializedVersion: 2
+        x: 1719
+        y: 1880
+        width: 136
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: menuPishool_7
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1623
+        width: 166
+        height: 172
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: menuPishool_8
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 1629
+        width: 168
+        height: 170
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: menuPishool_9
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 1629
+        width: 166
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: menuPishool_10
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 1627
+        width: 170
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: menuPishool_13
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 1655
+        width: 575
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: menuPishool_14
+      rect:
+        serializedVersion: 2
+        x: 1685
+        y: 1451
+        width: 252
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: menuPishool_15
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 51
+        width: 1494
+        height: 982
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: menuPishool_16
+      rect:
+        serializedVersion: 2
+        x: 1771
+        y: 952
+        width: 149
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: menuPishool_17
+      rect:
+        serializedVersion: 2
+        x: 1768
+        y: 784
+        width: 149
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: menuPishool_18
+      rect:
+        serializedVersion: 2
+        x: 1753
+        y: 525
+        width: 198
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: menuPishool_19
+      rect:
+        serializedVersion: 2
+        x: 1751
+        y: 315
+        width: 202
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: menuPishool_20
+      rect:
+        serializedVersion: 2
+        x: 1749
+        y: 95
+        width: 198
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: menuPishool_20
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1807
+        width: 170
+        height: 170
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: menuPishool_21
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 1806
+        width: 167
+        height: 171
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: menuPishool_20
+      rect:
+        serializedVersion: 2
+        x: 1552
+        y: 1783
+        width: 313
+        height: 56
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
